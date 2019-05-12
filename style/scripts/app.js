@@ -1,4 +1,4 @@
-function hoverEnter(e) {
+function hoverEnter() {
     // background.classList.add('.hover');
     console.log('aqui');
 }
