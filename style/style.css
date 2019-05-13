@@ -95,6 +95,10 @@ nav .bottom ul li {
   cursor: pointer;
 }
 
+nav .bottom ul li:hover {
+  color: #56B33D;
+}
+
 article {
   display: -ms-grid;
   display: grid;
